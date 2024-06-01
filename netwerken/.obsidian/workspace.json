@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c5be9d930a3e1ac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f3ba7f58607931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a7519142f00e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commands/Cisco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "333c3226c7b78d0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff277bc7d3298f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c7b1d5532e160b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "182c101c4ea9e0d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce20497e6216c50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a5f9f06d7bc8494",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb68b2f4b3abd9e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "225cfa653715c01c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "commands/Cisco.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33f90fc0db7989fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "commands/Cisco.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d2678212d2d3433",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed3294f1b67bc956",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "commands/Cisco.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42a7519142f00e93",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "commands/Cisco.md",
+    "informatie/ip/ipv4.md",
+    "ip toevoegen.md",
+    "commands/interfaces/router interfaces.md",
+    "netwerkInterfaces opvragen.md",
+    "IP Opvragen.md",
+    "enable SSH.md",
+    "commands/ip/config default gateway.md",
+    "commands/secure/secure privileged mode.md",
+    "commands/secure/secure user exec mode.md",
+    "commands/secure/line vty.md",
+    "commands/config/show running config.md",
+    "commands/secure/encrypt password.md",
+    "commands/device/Setup banner.md",
+    "commands/ip/vlan.md",
+    "reload.md",
+    "Default gateway verwijderen.md",
+    "Default gateway toevoegen.md",
+    "route toevoegen.md",
+    "route verwijderen.md",
+    "routes opvragen.md",
+    "interface uit of inschakelen.md",
+    "ip verwijderen.md",
+    "interface uit/inschakelen.md",
+    "interface uit",
+    "setups",
+    "Pasted image 20240513131915.png",
+    "Pasted image 20240513131725.png",
+    "Pasted image 20240512231919.png",
+    "Pasted image 20240512231507.png",
+    "Pasted image 20240512230707.png",
+    "Pasted image 20240512230401.png",
+    "Pasted image 20240512230111.png",
+    "informatie/Osi Model",
+    "images/Pasted image 20240512215338.png",
+    "images/Pasted image 20240512224029.png",
+    "images/Pasted image 20240512224418.png",
+    "informatie/cisco/modes",
+    "informatie/cisco",
+    "informatie/device",
+    "informatie/ip",
+    "informatie",
+    "commands/interfaces",
+    "commands/ip",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

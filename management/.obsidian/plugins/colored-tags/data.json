@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 4,
+    "selected": "adaptive-bright",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "hoofdstuk": 1,
+    "formule": 2,
+    "notes": 3,
+    "term": 4,
+    "todo": 5,
+    "definities": 6,
+    "voorbeeld": 7
+  },
+  "_version": 3
+}

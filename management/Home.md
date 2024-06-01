@@ -1,0 +1,12 @@
+# Cost accounting
+- [[Kostprijs en kosten]] 
+- [[vaste en variable kosten]] 
+- [[Directe en Indirecte kosten]] 
+- [[Beleidsbeslising]] 
+- [[Break even analyse]] 
+- [[Speciale orders met lagere verkoopprijs]] 
+- [[Make or buy]] 
+- [[Budgetering & Pricing]]
+- [[Activity Based costing]] 
+- [[In-house vs Outsourcing]] 
+## [[Begrippen]] 

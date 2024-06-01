@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "8f5bc9f1b2dded14",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb117adb2797c77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69377d05a74a269",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ba15333c06579bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbded6158709caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96291d3f5e2c1736",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a24dd8bda690c31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a1c73a3a5ec1cb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60878f6674d1e1c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "99bc9d47186615f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5beb27a2095244b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d7a025eb9adfacd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e20198bc1b5808a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa75b1547036f3e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "c69377d05a74a269",
+  "lastOpenFiles": [
+    "In-house vs Outsourcing.md",
+    "Home.md",
+    "Activity Based costing.md",
+    "Pasted image 20240601135931.png",
+    "Pasted image 20240601135804.png",
+    "Pasted image 20240601135541.png",
+    "Budgetering & Pricing.md",
+    "Pasted image 20240601134559.png",
+    "Begrippen.md",
+    "Make or buy.md",
+    "Speciale orders met lagere verkoopprijs.md",
+    "Break even analyse.md",
+    "Pasted image 20240531191243.png",
+    "Pasted image 20240531191003.png",
+    "Pasted image 20240531190753.png",
+    "Pasted image 20240531190649.png",
+    "Beleidsbeslising.md",
+    "Directe en Indirecte kosten.md",
+    "vaste en variable kosten.md",
+    "images/Pasted image 20240530230006.png",
+    "test.md",
+    "Untitled.md",
+    "Kostprijs en kosten.md",
+    "images/Pasted image 20240530222615.png",
+    "FabricagePrijs Formule.md",
+    "notes/2024-04-22.md",
+    "images",
+    "notes/2024-05-06.md",
+    "notes/2024-04-29.md",
+    "Untitled 1.md"
+  ]
+}

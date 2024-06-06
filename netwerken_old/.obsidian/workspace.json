@@ -1,41 +1,40 @@
 {
   "main": {
-    "id": "acf79b2477770241",
+    "id": "c5be9d930a3e1ac9",
     "type": "split",
     "children": [
       {
-        "id": "3d1c0915006e05af",
+        "id": "3869171353acc1d2",
         "type": "tabs",
         "children": [
           {
-            "id": "271f840a0a13f0e6",
+            "id": "155b06d281c90c7b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "97763aa4147ae33e",
+    "id": "333c3226c7b78d0e",
     "type": "split",
     "children": [
       {
-        "id": "bec61be35bf60dbc",
+        "id": "2ff277bc7d3298f2",
         "type": "tabs",
         "children": [
           {
-            "id": "e1432d02518ade95",
+            "id": "c2c7b1d5532e160b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +44,7 @@
             }
           },
           {
-            "id": "82cbfad3c4465b2c",
+            "id": "182c101c4ea9e0d6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +59,7 @@
             }
           },
           {
-            "id": "492e605022a036b7",
+            "id": "5ce20497e6216c50",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,20 +73,20 @@
     "width": 300
   },
   "right": {
-    "id": "7fb99f4cf1d0cc14",
+    "id": "2a5f9f06d7bc8494",
     "type": "split",
     "children": [
       {
-        "id": "a5f8bdd4007a6dcc",
+        "id": "cb68b2f4b3abd9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8fb00fe00192a3",
+            "id": "225cfa653715c01c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osi/netwerk.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +98,19 @@
             }
           },
           {
-            "id": "024ce5eb078aa5f7",
+            "id": "33f90fc0db7989fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osi/netwerk.md",
-                "linksCollapsed": false,
+                "file": "Home.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8eb5191495e0114e",
+            "id": "4d2678212d2d3433",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,16 +121,17 @@
             }
           },
           {
-            "id": "50a6f5b103d5d3d0",
+            "id": "ed3294f1b67bc956",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "osi/netwerk.md"
+                "file": "Home.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,8 +140,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -149,38 +149,57 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e1432d02518ade95",
+  "active": "155b06d281c90c7b",
   "lastOpenFiles": [
-    "osi/Application.md",
-    "osi/Data link.md",
     "Home.md",
-    "osi/Transport.md",
-    "images/Pasted image 20240603202243.png",
-    "images/Pasted image 20240603204012.png",
-    "images/Pasted image 20240603203924.png",
-    "images/Pasted image 20240603203744.png",
-    "images/Pasted image 20240603203732.png",
-    "images/Pasted image 20240603203659.png",
-    "images/Pasted image 20240603203502.png",
-    "osi/netwerk.md",
-    "images/Pasted image 20240603202301.png",
-    "IP/v6.md",
-    "IP/v4.md",
-    "netwrok/Rules en Protocols.md",
-    "netwrok/Relaible netwerk.md",
-    "netwrok/Network Media.md",
-    "netwrok/intemediary devices.md",
-    "netwrok/Type netwerken.md",
-    "netwrok/Hosts.md",
-    "IP",
-    "images/Pasted image 20240603194218.png",
-    "images/Pasted image 20240603192723.png",
-    "numbers.md",
-    "osi/Physical.md",
-    "netwrok",
-    "images",
-    "cisco",
-    "osi",
-    "Welcome.md"
+    "commands/Cisco.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "informatie/ip/ipv4.md",
+    "ip toevoegen.md",
+    "commands/interfaces/router interfaces.md",
+    "netwerkInterfaces opvragen.md",
+    "IP Opvragen.md",
+    "enable SSH.md",
+    "commands/ip/config default gateway.md",
+    "commands/secure/secure privileged mode.md",
+    "commands/secure/secure user exec mode.md",
+    "commands/secure/line vty.md",
+    "commands/config/show running config.md",
+    "commands/secure/encrypt password.md",
+    "commands/device/Setup banner.md",
+    "commands/ip/vlan.md",
+    "reload.md",
+    "Default gateway verwijderen.md",
+    "Default gateway toevoegen.md",
+    "route toevoegen.md",
+    "route verwijderen.md",
+    "routes opvragen.md",
+    "interface uit of inschakelen.md",
+    "ip verwijderen.md",
+    "interface uit",
+    "setups",
+    "Pasted image 20240513131915.png",
+    "Pasted image 20240513131725.png",
+    "Pasted image 20240512231919.png",
+    "Pasted image 20240512231507.png",
+    "Pasted image 20240512230707.png",
+    "Pasted image 20240512230401.png",
+    "Pasted image 20240512230111.png",
+    "informatie/Osi Model",
+    "images/Pasted image 20240512215338.png",
+    "images/Pasted image 20240512224029.png",
+    "images/Pasted image 20240512224418.png",
+    "informatie/cisco/modes",
+    "informatie/cisco",
+    "informatie/device",
+    "informatie/ip",
+    "informatie",
+    "commands/interfaces",
+    "commands/ip",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
   ]
 }

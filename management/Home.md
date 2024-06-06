@@ -9,4 +9,10 @@
 - [[Budgetering & Pricing]]
 - [[Activity Based costing]] 
 - [[In-house vs Outsourcing]] 
+
+# Investeringsanalyse
+[[inkomsten en uitgaven]] 
+[[Kasstromen versus boekhoudkundige stromen]]
+[[De tijdswaarde van geld]] 
+[[Evaluatietechnieken]] 
 ## [[Begrippen]] 

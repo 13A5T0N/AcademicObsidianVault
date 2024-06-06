@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "adb117adb2797c77",
+        "id": "fcbfdc2cab053d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "c69377d05a74a269",
+            "id": "55299e29cc39bee2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -150,33 +148,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c69377d05a74a269",
+  "active": "55299e29cc39bee2",
   "lastOpenFiles": [
-    "In-house vs Outsourcing.md",
     "Home.md",
-    "Activity Based costing.md",
-    "Pasted image 20240601135931.png",
-    "Pasted image 20240601135804.png",
-    "Pasted image 20240601135541.png",
-    "Budgetering & Pricing.md",
-    "Pasted image 20240601134559.png",
+    "images/Pasted image 20240601204334.png",
+    "Evaluatietechnieken.md",
+    "De tijdswaarde van geld.md",
+    "images/Pasted image 20240601205003.png",
+    "images/Pasted image 20240601204828.png",
+    "images/Pasted image 20240601204541.png",
+    "images/Pasted image 20240601204124.png",
+    "Kasstromen versus boekhoudkundige stromen.md",
+    "images/Pasted image 20240601204034.png",
+    "images/Pasted image 20240601204020.png",
+    "images/Pasted image 20240601203251.png",
+    "inkomsten en uitgaven.md",
+    "images/Pasted image 20240601202141.png",
+    "images/Pasted image 20240601202845.png",
+    "Cost Accounting/In-house vs Outsourcing.md",
+    "Cost Accounting/vaste en variable kosten.md",
+    "Cost Accounting/FabricagePrijs Formule.md",
+    "Cost Accounting/Directe en Indirecte kosten.md",
+    "Cost Accounting/Activity Based costing.md",
+    "images/Speciale orders met lagere verkoopprijs.md",
+    "Cost Accounting",
+    "Cost Accounting/Budgetering & Pricing.md",
     "Begrippen.md",
-    "Make or buy.md",
-    "Speciale orders met lagere verkoopprijs.md",
-    "Break even analyse.md",
-    "Pasted image 20240531191243.png",
-    "Pasted image 20240531191003.png",
-    "Pasted image 20240531190753.png",
-    "Pasted image 20240531190649.png",
-    "Beleidsbeslising.md",
-    "Directe en Indirecte kosten.md",
-    "vaste en variable kosten.md",
-    "images/Pasted image 20240530230006.png",
+    "Cost Accounting/Make or buy.md",
+    "Cost Accounting/Break even analyse.md",
+    "Cost Accounting/Beleidsbeslising.md",
     "test.md",
     "Untitled.md",
-    "Kostprijs en kosten.md",
-    "images/Pasted image 20240530222615.png",
-    "FabricagePrijs Formule.md",
+    "Cost Accounting/Kostprijs en kosten.md",
     "notes/2024-04-22.md",
     "images",
     "notes/2024-05-06.md",

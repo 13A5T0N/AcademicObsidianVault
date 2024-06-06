@@ -1,0 +1,38 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "uZc1zGaIFitfb8XhPGH1r",
+      "name": "cisco",
+      "value": "#08fde0"
+    },
+    {
+      "id": "SdHyEnQj6tB_aJfCvtagt",
+      "name": "images",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "cisco",
+      "color": "uZc1zGaIFitfb8XhPGH1r"
+    },
+    {
+      "path": "osi",
+      "color": "uZc1zGaIFitfb8XhPGH1r"
+    },
+    {
+      "path": "images",
+      "color": "SdHyEnQj6tB_aJfCvtagt"
+    },
+    {
+      "path": "netwrok",
+      "color": "uZc1zGaIFitfb8XhPGH1r"
+    },
+    {
+      "path": "IP",
+      "color": "uZc1zGaIFitfb8XhPGH1r"
+    }
+  ]
+}

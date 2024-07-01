@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0372cb3a97ca0065",
+    "type": "split",
+    "children": [
+      {
+        "id": "b910f9af744ab912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e820cf908b241acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c662de491ac43aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52e97f9830f684e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b2a98637dd3f54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc6ccbd459ffdd9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "355a93615cf46d19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b47a2878f6be0298",
+    "type": "split",
+    "children": [
+      {
+        "id": "6546a50ba2c9718e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee3b5abb1ceb0f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "120f194d7f996730",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39a3394b8dc1d23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "200401d651372a54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "0767c2fa8ad6c963",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "08c308eef63614d2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "27a61d0865eb324b",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e820cf908b241acc",
+  "lastOpenFiles": [
+    "pdf/les 7.2 beslissingsbomen.pdf",
+    "samenvatting/Beslissingbomen.md",
+    "samenvatting/Association rules.md",
+    "pdf/les 8.3 classificatie en metrieken.pdf",
+    "pdf/les 9 Association rules.pdf",
+    "pdf/les 10 clusteranalyse.pdf",
+    "pdf/les 11 neurale netwerken.pdf",
+    "samenvatting/clusteranalyse.md",
+    "pdf/les 8.1 overfitting en de nood aan metrieken.pdf",
+    "samenvatting/Kansen.md",
+    "samenvatting/classificatie metrieken.md",
+    "pdf/les 8.2 regressie en metrieken.pdf",
+    "pdf/DS1 - 4-2 Bevestigend - Betrouwbaarheid & Hypotheses - Slides.pdf",
+    "pdf/les 5.1 kansen.pdf",
+    "Home.md",
+    "pdf/DS1 - 4-1 Bevestigend - Kansen en verdelingen - Slides.pdf",
+    "samenvatting/steekproef.md",
+    "images/Pasted image 20240611041254.png",
+    "images/Pasted image 20240611044409.png",
+    "images/Pasted image 20240611044309.png",
+    "images/Pasted image 20240611044302.png",
+    "images/Pasted image 20240611043815.png",
+    "images/Pasted image 20240611043803.png",
+    "images/Pasted image 20240611043746.png",
+    "images/Pasted image 20240611043001.png",
+    "images/Pasted image 20240611042316.png",
+    "samenvatting/Regressie metrieken.md",
+    "images/Pasted image 20240611041926.png",
+    "samenvatting/evauleren.md",
+    "samenvatting/machine-learning.md",
+    "Kanisen.md",
+    "Kansverdeling.md",
+    "Welcome.md"
+  ]
+}

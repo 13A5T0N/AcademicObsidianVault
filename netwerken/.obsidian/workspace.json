@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1c0915006e05af",
+        "id": "35cba5f3a8278199",
         "type": "tabs",
         "children": [
           {
-            "id": "271f840a0a13f0e6",
+            "id": "abde97fb865821e2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Omschrijving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7fb99f4cf1d0cc14",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osi/netwerk.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osi/netwerk.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osi/netwerk.md"
+                "file": "Home.md"
               }
             }
           }
@@ -149,12 +147,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e1432d02518ade95",
+  "active": "abde97fb865821e2",
   "lastOpenFiles": [
-    "osi/Application.md",
-    "osi/Data link.md",
+    "cisco/enable ssh.md",
     "Home.md",
-    "osi/Transport.md",
+    "linux_netwerkcommandos.pdf",
+    "cisco/ip routing.md",
+    "cisco/ip-route.md",
+    "cisco/default gateway.md",
+    "cisco/ip-addr.md",
+    "cisco/config default gateway.md",
+    "cisco/assign ports to vlan.md",
+    "Cisco_Commands_Cheat_Sheet.pdf",
+    "cisco/Basic Setup.md",
+    "Basic cisco commands book.pdf",
+    "cisco/router interface.md",
+    "cisco/ethernet interface.md",
+    "cisco/setup vlan.md",
+    "cisco/ip domain-name.md",
+    "cisco/user Exec mode.md",
+    "cisco/privileged mode.md",
+    "cisco/crypto key generate rsa.md",
+    "cisco/service password-encryption.md",
+    "cisco/console.md",
+    "cisco/int vlan.md",
+    "cisco/vlan.md",
+    "cisco/Primary Command.md",
+    "cisco/clock rate.md",
+    "cisco/clock set.md",
+    "cisco/no shutdown.md",
+    "cisco/shutdown.md",
     "images/Pasted image 20240603202243.png",
     "images/Pasted image 20240603204012.png",
     "images/Pasted image 20240603203924.png",
@@ -162,25 +184,13 @@
     "images/Pasted image 20240603203732.png",
     "images/Pasted image 20240603203659.png",
     "images/Pasted image 20240603203502.png",
-    "osi/netwerk.md",
     "images/Pasted image 20240603202301.png",
-    "IP/v6.md",
-    "IP/v4.md",
-    "netwrok/Rules en Protocols.md",
-    "netwrok/Relaible netwerk.md",
-    "netwrok/Network Media.md",
-    "netwrok/intemediary devices.md",
-    "netwrok/Type netwerken.md",
-    "netwrok/Hosts.md",
     "IP",
     "images/Pasted image 20240603194218.png",
     "images/Pasted image 20240603192723.png",
-    "numbers.md",
-    "osi/Physical.md",
     "netwrok",
     "images",
     "cisco",
-    "osi",
-    "Welcome.md"
+    "osi"
   ]
 }

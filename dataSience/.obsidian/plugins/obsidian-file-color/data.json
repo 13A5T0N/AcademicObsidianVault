@@ -1,0 +1,35 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "OPUeNCBIfIGqpQkx7Ay9F",
+      "name": "folder",
+      "value": "#ff0000"
+    },
+    {
+      "id": "IOGZRJ0ZHvl1haTKP-hf9",
+      "name": "Samenvatting",
+      "value": "#4ef109"
+    },
+    {
+      "id": "IT0DhKVWZxN_7C7VLGTr2",
+      "name": "documenten",
+      "value": "#f96a0b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "images",
+      "color": "OPUeNCBIfIGqpQkx7Ay9F"
+    },
+    {
+      "path": "samenvatting",
+      "color": "IOGZRJ0ZHvl1haTKP-hf9"
+    },
+    {
+      "path": "pdf",
+      "color": "IT0DhKVWZxN_7C7VLGTr2"
+    }
+  ]
+}

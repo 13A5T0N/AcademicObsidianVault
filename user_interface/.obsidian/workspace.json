@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "1133585dfe1428cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4add14a7a93c958f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecec4299bd98c072",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/js/DOM.pdf"
+              }
+            }
+          },
+          {
+            "id": "c12ad83fa342cb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS TAGS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44f071b62f0eb8a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/css/Basis.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0150f1a75ffff45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f7d55b6a9a718c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e1d0407ecbcbaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d72f6af53fa938c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be026a95b6322991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b86ec9ff7a11d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a3138822f712e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbdc22f6459c2b24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resources/js/DOM.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ee6e2111b5c6fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "resources/js/DOM.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d767cbc93067a2e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b40777254ad415f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "resources/js/DOM.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ecec4299bd98c072",
+  "lastOpenFiles": [
+    "resources/js/Events.pdf",
+    "resources/css/Basis.pdf",
+    "Document Object Model (DOM).md",
+    "JS TAGS.md",
+    "resources/js/DOM.pdf",
+    "resources/js/Basis.pdf",
+    "resources/js/Functies.pdf",
+    "resources/js/Arrays.pdf",
+    "CSS TAGS.md",
+    "resources/css/Positionering.pdf",
+    "resources/css/Boxmodel.pdf",
+    "resources/css/Kleuren, randen en achtergronden.pdf",
+    "resources/css/Tekst en typografie.pdf",
+    "HTML TAGS.md",
+    "Text Content.md",
+    "Document Structure.md",
+    "Welcome.md"
+  ]
+}

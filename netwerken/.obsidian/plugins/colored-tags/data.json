@@ -15,7 +15,16 @@
     "netwerk": 3,
     "protocol": 4,
     "osi": 5,
-    "ip": 6
+    "ip": 6,
+    "cisco": 7,
+    "os": 8,
+    "basic-device": 9,
+    "config": 10,
+    "interface": 11,
+    "Omschrijving": 12,
+    "routing": 13,
+    "security": 14,
+    "setup": 15
   },
   "_version": 3
 }
